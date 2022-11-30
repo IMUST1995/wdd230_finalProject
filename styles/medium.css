@@ -1,0 +1,14 @@
+@media (min-width: 50rem) {
+    main div{
+        max-width: 60%;
+    }
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .colorSchemeContainer {
+        width: 60%;
+    }
+}
